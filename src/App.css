@@ -1,0 +1,6 @@
+.iconbtn .heart:hover{
+    color: red;
+}
+.iconbtn .cart:hover{
+    color: rgb(20, 218, 20);
+}
