@@ -38,7 +38,7 @@ function Footer() {
           <MDBRow className='mt-3'>
             <MDBCol md='3' lg='4' xl='3' className='mx-auto mb-4'>
               <h6 className='text-uppercase text-secondary fw-bold mb-4'>
-              <Card.Img variant="top" src="src/assets/logo.png" style={{width:'15px',height:'15px'}} />
+              <Card.Img variant="top" src="https://i.pinimg.com/originals/67/69/bb/6769bbdfd658b026566bd5e6ca924ad7.png" style={{width:'15px',height:'15px'}} />
                 {" "}E-CART
               </h6>
               <p>

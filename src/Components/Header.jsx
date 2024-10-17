@@ -25,7 +25,7 @@ function Header({insideHome}) {
     <>
       <Navbar bg="dark" data-bs-theme="dark" style={{zIndex:1}}>
         <Container>
-          <Navbar.Brand href="/" style={{fontFamily: '"Lilita One", sans-serif'}}><Card.Img variant="top" src="src/assets/logo.png" style={{width:'25px',height:'25px'}} />{' '}E-Cart</Navbar.Brand>
+          <Navbar.Brand href="/" style={{fontFamily: '"Lilita One", sans-serif'}}><Card.Img variant="top" src="https://i.pinimg.com/originals/67/69/bb/6769bbdfd658b026566bd5e6ca924ad7.png" style={{width:'25px',height:'25px'}} />{' '}E-Cart</Navbar.Brand>
           <Nav className="ms-auto">
 
           { insideHome&& <Nav.Link className=''>
